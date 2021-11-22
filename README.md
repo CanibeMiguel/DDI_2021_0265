@@ -1,7 +1,7 @@
-# DDI_2021_0265
-Data used in  DDI_2021_0265
+# LULC_SDM_Uncertainty
+Data used in papear
 
-This DDI_2021_0265readme.txt file was generated on 2021-11-22 by MIGUEL CÁNIBE IGLESIAS
+This LULSDM_Uncertaintyreadme.txt file was generated on 2021-11-22 by MIGUEL CÁNIBE IGLESIAS
 
 
 GENERAL INFORMATION
